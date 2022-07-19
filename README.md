@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @alyce-git!
+- 👋 Hey, I’m @alyce-developer!
 - 👀 I’m interested in traveling, coding, socializing and trying new things :)
 - 🌱 I’m currently learning about HTML and CSS.
 - 💞️ I’m looking to collaborate on new projects to expand my hard-skills.
