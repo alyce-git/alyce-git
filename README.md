@@ -1,10 +1,6 @@
-- 👋 Hey, I’m @alyce-developer!
-- 👀 I’m interested in traveling, coding, socializing and trying new things :)
-- 🌱 I’m currently learning about HTML and CSS.
-- 💞️ I’m looking to collaborate on new projects to expand my hard-skills.
-- 📫 How to reach me: you can send me an email. I'll be glad to hear from you! 
+Uma jovem no início de seus 20 anos, dedicada a conquistar a indepêndencia financeira e ao mesmo tempo servir para o avanço da área tech. 
 
-<!---
-alyce-git/alyce-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Minha paixão por tecnologia me fez ter coragem de mergulhar nesta área e me dedicar a aprender cada vez mais. A partir disso, busquei cursos para me ajudar nesse caminho, e encontrei a Gama Academy, onde estudo atualmente o curso de Desenvolvimento Web Full Stack, que vem agregando amplamente na minha carreira. 
+
+Acredito na persistência, no foco, na dedicação e na constância, que também são pontos fundamentais que me ajudam nesse novo caminho de trabalho e de vida.
+
